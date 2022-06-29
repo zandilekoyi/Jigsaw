@@ -1,0 +1,37 @@
+h1{
+        color: #2296c7;
+        font-size: 40px;
+        font-family: Helvetica,sans-serif;
+        text-align: center;
+}
+
+tr{
+        color: green;
+        font-family: helvetica,sans-serif;
+        text-align: right;
+}
+
+h3{
+    font-family: comic sans, comic sans MS, cursive;
+}
+
+p{
+    font-weight: 800;
+    text-decoration: line-through;
+}
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-style: solid;
+    border-color: lightgreen;
+
+}
+
+
+th{
+    font-weight: 900;
+    background-color: hotpink;
+    color: ivory;
+
+}
